@@ -9,6 +9,10 @@
 <p align="center">
     <a href="https://github.com/RiZwAn755/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohammad Rizwan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiZwAn755&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+      <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RiZwAn755/count.svg" />
+</p>
     </a>
 
 </p>
